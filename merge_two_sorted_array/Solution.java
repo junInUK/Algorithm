@@ -4,7 +4,7 @@ public class Solution {
      * @param B: sorted integer array B
      * @return: A new sorted integer array
      */
-    public int[] mergeSortedArray(int[] A, int[] B) {
+    public static int[] mergeSortedArray(int[] A, int[] B) {
         int []C = new int[A.length + B.length];
         int i = 0;
         int j = 0;
@@ -24,4 +24,14 @@ public class Solution {
         // write your code here
         return C;
     }
+
+    public static void main(String args[]){
+        int [] a = new int []{1,2,4,6,8};
+        int [] b = new int []{2,6,7,10};
+        int [] c = mergeSortedArray(a,b);
+        for(int i = 0; i<c.length; i++){
+            System.out.print(c[i] + " ");
+        }
+    }
+
 }
