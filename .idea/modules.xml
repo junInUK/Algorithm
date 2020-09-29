@@ -3,6 +3,15 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Algorithm.iml" filepath="$PROJECT_DIR$/Algorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BinaryGap/BinaryGap.iml" filepath="$PROJECT_DIR$/BinaryGap/BinaryGap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BinaryTree/BinaryTree.iml" filepath="$PROJECT_DIR$/BinaryTree/BinaryTree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FindEquilibriumIndex/FindEquilibriumIndex.iml" filepath="$PROJECT_DIR$/FindEquilibriumIndex/FindEquilibriumIndex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KnightBinaryTreeDFS/KnightBinaryTreeD.iml" filepath="$PROJECT_DIR$/KnightBinaryTreeDFS/KnightBinaryTreeD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LeaderSorted/LeaderSorted.iml" filepath="$PROJECT_DIR$/LeaderSorted/LeaderSorted.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MergeSort/MergeSort.iml" filepath="$PROJECT_DIR$/MergeSort/MergeSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MinPositiveNumber/MinPositiveNumber.iml" filepath="$PROJECT_DIR$/MinPositiveNumber/MinPositiveNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/QuickSort/QuickSort.iml" filepath="$PROJECT_DIR$/QuickSort/QuickSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion/Recursion.iml" filepath="$PROJECT_DIR$/Recursion/Recursion.iml" />
       <module fileurl="file://$PROJECT_DIR$/count_and_say/count_and_say.iml" filepath="$PROJECT_DIR$/count_and_say/count_and_say.iml" />
     </modules>
   </component>

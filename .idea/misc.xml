@@ -4,6 +4,15 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/count_and_say/pom.xml" />
+        <option value="$PROJECT_DIR$/KnightBinaryTreeDFS/pom.xml" />
+        <option value="$PROJECT_DIR$/LeaderSorted/pom.xml" />
+        <option value="$PROJECT_DIR$/FindEquilibriumIndex/pom.xml" />
+        <option value="$PROJECT_DIR$/BinaryGap/pom.xml" />
+        <option value="$PROJECT_DIR$/MinPositiveNumber/pom.xml" />
+        <option value="$PROJECT_DIR$/QuickSort/pom.xml" />
+        <option value="$PROJECT_DIR$/MergeSort/pom.xml" />
+        <option value="$PROJECT_DIR$/Recursion/pom.xml" />
+        <option value="$PROJECT_DIR$/BinaryTree/pom.xml" />
       </list>
     </option>
   </component>

@@ -6,11 +6,29 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="BinaryGap" />
+        <module name="FindEquilibriumIndex" />
         <module name="count_and_say" />
+        <module name="LeaderSorted" />
+        <module name="QuickSort" />
+        <module name="BinaryTree" />
+        <module name="KnightBinaryTreeD" />
+        <module name="MergeSort" />
+        <module name="Recursion" />
+        <module name="MinPositiveNumber" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="BinaryGap" target="1.5" />
+      <module name="BinaryTree" target="1.5" />
       <module name="count_and_say" target="1.5" />
+      <module name="FindEquilibriumIndex" target="1.5" />
+      <module name="KnightBinaryTreeD" target="1.5" />
+      <module name="LeaderSorted" target="1.5" />
+      <module name="MergeSort" target="1.5" />
+      <module name="MinPositiveNumber" target="1.5" />
+      <module name="QuickSort" target="1.5" />
+      <module name="Recursion" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
