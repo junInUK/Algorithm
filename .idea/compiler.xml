@@ -12,6 +12,7 @@
         <module name="LeaderSorted" />
         <module name="QuickSort" />
         <module name="BinaryTree" />
+        <module name="MaxDepthOfBinaryTree" />
         <module name="KnightBinaryTreeD" />
         <module name="MergeSort" />
         <module name="Recursion" />
@@ -25,6 +26,7 @@
       <module name="FindEquilibriumIndex" target="1.5" />
       <module name="KnightBinaryTreeD" target="1.5" />
       <module name="LeaderSorted" target="1.5" />
+      <module name="MaxDepthOfBinaryTree" target="1.5" />
       <module name="MergeSort" target="1.5" />
       <module name="MinPositiveNumber" target="1.5" />
       <module name="QuickSort" target="1.5" />

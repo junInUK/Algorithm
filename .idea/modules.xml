@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/FindEquilibriumIndex/FindEquilibriumIndex.iml" filepath="$PROJECT_DIR$/FindEquilibriumIndex/FindEquilibriumIndex.iml" />
       <module fileurl="file://$PROJECT_DIR$/KnightBinaryTreeDFS/KnightBinaryTreeD.iml" filepath="$PROJECT_DIR$/KnightBinaryTreeDFS/KnightBinaryTreeD.iml" />
       <module fileurl="file://$PROJECT_DIR$/LeaderSorted/LeaderSorted.iml" filepath="$PROJECT_DIR$/LeaderSorted/LeaderSorted.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MaxDepthOfBinaryTree/MaxDepthOfBinaryTree.iml" filepath="$PROJECT_DIR$/MaxDepthOfBinaryTree/MaxDepthOfBinaryTree.iml" />
       <module fileurl="file://$PROJECT_DIR$/MergeSort/MergeSort.iml" filepath="$PROJECT_DIR$/MergeSort/MergeSort.iml" />
       <module fileurl="file://$PROJECT_DIR$/MinPositiveNumber/MinPositiveNumber.iml" filepath="$PROJECT_DIR$/MinPositiveNumber/MinPositiveNumber.iml" />
       <module fileurl="file://$PROJECT_DIR$/QuickSort/QuickSort.iml" filepath="$PROJECT_DIR$/QuickSort/QuickSort.iml" />
