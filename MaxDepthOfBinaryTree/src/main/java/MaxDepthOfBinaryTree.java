@@ -14,5 +14,6 @@ public class MaxDepthOfBinaryTree {
         System.out.println();
         System.out.print(bt1.maxDepthNonRecursion(A));
         System.out.println(bt1.isSymmetric(A));
+        bt1.levelTrav(A);
     }
 }

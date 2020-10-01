@@ -1,3 +1,5 @@
+import java.util.ArrayDeque;
+import java.util.Queue;
 import java.util.Stack;
 
 public class BinaryTree {
@@ -70,6 +72,23 @@ public class BinaryTree {
                     return true;
                 }
             }
+        }
+    }
+
+    public void levelTrav(TreeNode node){
+        if(node == null)
+            return;
+        Queue<TreeNode> q = new ArrayDeque<TreeNode>();
+        q.add(node);
+        TreeNode cur;
+        while(!q.isEmpty()){
+            cur = q.peek();
+            System.out.print(cur.val + " ");
+            if(cur.left != null)
+                q.add(cur.left);
+            if(cur.right != null)
+                q.add(cur.right);
+            q.poll();
         }
     }
 }
