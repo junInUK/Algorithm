@@ -14,6 +14,7 @@
       <module fileurl="file://$PROJECT_DIR$/QuickSort/QuickSort.iml" filepath="$PROJECT_DIR$/QuickSort/QuickSort.iml" />
       <module fileurl="file://$PROJECT_DIR$/Recursion/Recursion.iml" filepath="$PROJECT_DIR$/Recursion/Recursion.iml" />
       <module fileurl="file://$PROJECT_DIR$/count_and_say/count_and_say.iml" filepath="$PROJECT_DIR$/count_and_say/count_and_say.iml" />
+      <module fileurl="file://$PROJECT_DIR$/two_sum/two_sum.iml" filepath="$PROJECT_DIR$/two_sum/two_sum.iml" />
     </modules>
   </component>
 </project>
